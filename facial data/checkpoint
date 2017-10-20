@@ -1,0 +1,2 @@
+model_checkpoint_path: "save_CNN.ckpt"
+all_model_checkpoint_paths: "save_CNN.ckpt"
