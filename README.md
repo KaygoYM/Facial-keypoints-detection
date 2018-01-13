@@ -7,7 +7,7 @@ The saved model is in 'facial data' but the main part is so large,too. So please
 # HOW TO USE</br>
 Just run [the train pyfile](https://github.com/KaygoYM/Facial-keypoints-detection/blob/master/facial_keypoints.py) and [the test pyfile](https://github.com/KaygoYM/Facial-keypoints-detection/blob/master/facial_keypoints_test.py) is OK.</br>
 </br>
-AND,all the PATH in [the train pyfile](https://github.com/KaygoYM/Facial-keypoints-detection/blob/master/facial_keypoints.py) and [the test pyfile](https://github.com/KaygoYM/Facial-keypoints-detection/blob/master/facial_keypoints_test.py)should be rewritten (if necessary) when you run them.</br>
+AND,all the PATH in [the train pyfile](https://github.com/KaygoYM/Facial-keypoints-detection/blob/master/facial_keypoints.py) and [the test pyfile](https://github.com/KaygoYM/Facial-keypoints-detection/blob/master/facial_keypoints_test.py) should be rewritten (if necessary) when you run them.</br>
 # Result</br>
 The final result is shown just like [Figure_1](https://github.com/KaygoYM/Facial-keypoints-detection/blob/master/Figure_1.png)</br>
 ## Tips:</br>
