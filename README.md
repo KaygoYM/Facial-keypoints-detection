@@ -9,6 +9,6 @@ Just run [the train pyfile](https://github.com/KaygoYM/Facial-keypoints-detectio
 </br>
 AND,all the PATH in [the train pyfile](https://github.com/KaygoYM/Facial-keypoints-detection/blob/master/facial_keypoints.py) and [the test pyfile](https://github.com/KaygoYM/Facial-keypoints-detection/blob/master/facial_keypoints_test.py) should be rewritten (if necessary) when you run them.</br>
 # Result</br>
-The final result is shown just like [Figure_1](https://github.com/KaygoYM/Facial-keypoints-detection/blob/master/Figure_1.png)</br>
+The final result is shown just like ![Figure_1](https://github.com/KaygoYM/Facial-keypoints-detection/blob/master/Figure_1.png)</br>
 ## Tips:</br>
 [another test by using real photo.py](https://github.com/KaygoYM/Facial-keypoints-detection/blob/master/another%20test%20by%20using%20real%20photo.py) is the test file using your real daily selfies or photos for detection.</br>
